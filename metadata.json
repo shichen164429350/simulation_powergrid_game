@@ -1,0 +1,5 @@
+{
+  "name": "Power Grid Tycoon",
+  "description": "A game where you build and manage a power grid to supply electricity to cities. Strategically place power plants and connect transmission lines to meet the growing demand and become a Power Grid Tycoon.",
+  "requestFramePermissions": []
+}
